@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🛡️ Nivi Cyber Solutions
+<img src="public/download.jpg" alt="Nivi Cyber Solutions Logo" width="300" style="filter: drop-shadow(0 0 15px rgba(0, 247, 255, 0.6)); transition: transform 0.3s ease-in-out;" />
 
 ### Securing Your Digital Future
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Advanced+Cybersecurity+Solutions;Protecting+Your+Digital+Assets;Trusted+Security+Partner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=CCFF00&center=true&vCenter=true&width=600&lines=Advanced+Cybersecurity+Solutions;Protecting+Your+Digital+Assets;Trusted+Security+Partner" alt="Typing SVG" />
 
 [![Website](https://img.shields.io/badge/Website-nivicybersolutions.com-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nivicybersolutions.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/nivi-cyber-solutions)
